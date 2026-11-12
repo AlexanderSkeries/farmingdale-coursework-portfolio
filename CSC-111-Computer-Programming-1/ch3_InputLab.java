@@ -8,7 +8,7 @@ public class Program {
       String userString = scnr.next();
       
       System.out.print("Enter a whole number (int): ");
-      int UserInt = scnr.nextInt();  
+      int userInt = scnr.nextInt();  
       
       System.out.print("Enter a double: ");
       double userDouble = scnr.nextDouble();
