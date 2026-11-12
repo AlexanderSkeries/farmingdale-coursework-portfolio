@@ -20,7 +20,7 @@ public class Program {
         System.out.print("\nInteger Array: \n");
         // Loop to print array contents (currently prints index instead of value)
         for (int i = 0; i < intNumbersArray.length; i++){
-        System.out.println(i+1 + ": " + i);
+        System.out.println((i+1) + ": " + intNumbersArray[i]);
         }
     }
     
