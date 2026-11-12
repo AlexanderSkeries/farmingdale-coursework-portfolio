@@ -3,4 +3,4 @@ Coursework and projects from my B.S. in Computer Programming and Information Sys
 
 ## Classes
 
-(Class list coming soon)
+CSC 111
