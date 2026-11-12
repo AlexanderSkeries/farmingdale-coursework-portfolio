@@ -1,4 +1,4 @@
-6// Alex Skeries - Green Horizon Project
+// Alex Skeries - Green Horizon Project
 
 import java.util.Scanner;
 
